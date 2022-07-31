@@ -7,7 +7,7 @@
 항상 사용자의 입장에서 항상 더 나은 UI/UX를 위해 궁리를 거듭하며 발전하는 개발자가 되겠습니다 👍 <br><br><br>
 
 # Stacks:sunny:
-### language 
+### languages
 
 <br>
 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <br><br>
 
-### framework & library
+### frameworks & libraries
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
