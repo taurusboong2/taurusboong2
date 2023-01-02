@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=Ant-Design&logoColor=white">
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=Lodash&logoColor=white">
 
 <br><br>
 
