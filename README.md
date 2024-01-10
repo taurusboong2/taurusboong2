@@ -1,12 +1,12 @@
 <div align=center>
 
-# Introduction:wave:
+# Introduction🙌
 
 안녕하세요😀 지속적이고 끊임없는 성장을 지향하는 주니어 프론트엔드 개발자 tauBoong 입니다! <br><br>
 복사하여 붙여넣기가 아닌, 직접 생각을 하고 이해하며 짜는 코드를 지향합니다. <br><br>
 항상 사용자의 입장에서 항상 더 나은 UI/UX를 위해 궁리를 거듭하며 발전하는 개발자가 되겠습니다 👍 <br><br><br>
 
-# Stacks:sunny:
+# Stacks🌅
 ### languages
 
 <br>
