@@ -6,6 +6,9 @@
 복사하여 붙여넣기가 아닌, 직접 생각을 하고 이해하며 짜는 코드를 지향합니다. <br><br>
 항상 사용자의 입장에서 항상 더 나은 UI/UX를 위해 궁리를 거듭하며 발전하는 개발자가 되겠습니다 👍 <br><br><br>
 
+(오픈이지 프로젝트 정리)[https://aromatic-farmer-405.notion.site/0787ce24d72c4d00b6159b365cb0f894?pvs=74]
+<br><br>
+
 # Stacks🌅
 ### languages
 
